@@ -1,4 +1,4 @@
-# arXiv-RAG
+# arXiv-RAG with LangChain
 
 A lightweight **arXiv paper search assistant** that combines:
 
