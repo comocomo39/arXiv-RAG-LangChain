@@ -47,6 +47,7 @@ arXiv-RAG/
 │   ├── raw/         # downloaded dataset (not tracked)
 │   ├── interim/     # filtered CSV (not tracked)
 │   └── processed/   # processed parquet (not tracked)
+├── examples/...
 ├── src/
 │   ├── config.py
 │   ├── data_loading.py
@@ -72,8 +73,8 @@ arXiv-RAG/
 ### 1) Clone the repository
 
 ```bash
-git clone https://github.com/comocomo39/arXiv-RAG.git
-cd arXiv-RAG
+git clone https://github.com/comocomo39/arXiv-RAG-LangChain.git
+cd arXiv-RAG-LangChain
 ```
 
 ### 2) Create and activate a virtual environment
