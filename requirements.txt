@@ -1,0 +1,5 @@
+pandas
+pyarrow
+langchain
+langchain-community
+rank-bm25
